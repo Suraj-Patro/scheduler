@@ -1,0 +1,12 @@
+README
+
+Sergiy V. Bokhnyak's submission for Hubertus Franke OS class Spring 2016.
+
+All code written in C++, I get a perfect output, with no difference 
+between sample output and my output, when I test it
+though I did not compare verbose versions.
+
+compile: g++ scheduler.gpp
+run____: ./a.out [-v] -s[type] [inputfile] [randfile]
+
+Follows format given by assignment instructions^^.
